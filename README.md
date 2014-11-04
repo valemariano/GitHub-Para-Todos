@@ -1,8 +1,9 @@
-# Modificame
+# Planificacion docente
 
-Este es un primer texto para *modificar*, **cambiar** y jugar.
+Llamamos planificación al instrumento con el que los docentes organizan su práctica educativa articulando el conjunto de contenidos, opciones metodológicas, estrategias educativas, textos y materiales para secuenciar las actividades que se han de realizar.
 
-> Es nuestro arenero personal
+> Que enseñar
+  1. Para definir qué enseñar tomaremos en cuenta 2 aspectos: los objetivos y los contenidos.
 
 Pueden:
 
